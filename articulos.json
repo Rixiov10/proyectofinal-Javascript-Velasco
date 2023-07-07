@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Metal Gear Solid 3",
+      "price": "29.99$",
+      "image": "./img/MSG3.jpeg"
+    },
+    {
+      "title": "Metal Gear Solid 2",
+      "price": "19.99$",
+      "image": "./img/MGS2.jpeg"
+    },
+    {
+      "title": "Shadow of the Colossus",
+      "price": "9.99$",
+      "image": "./img/SC.jpeg"
+    },
+    {
+      "title": "Resident Evil 4",
+      "price": "19.99$",
+      "image": "./img/RE4.jpeg"
+    },
+    {
+      "title": "Dragon Ball Z Budokai 3",
+      "price": "49.99$",
+      "image": "./img/DGZBT3.jpeg"
+    },
+    {
+      "title": "GTA: San Andreas",
+      "price": "69.99$",
+      "image": "./img/GTASA.jpeg"
+    }
+  ]
+  
